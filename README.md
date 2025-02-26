@@ -1,6 +1,9 @@
 # The CARCULATOR 🚙🚗🚓
 A simple project written in WPF that takes XML files containing car sales and creates price summaries grouped by model type
 
+Supports 3 languages 
+🇬🇧 🇨🇿 🇸🇰
+
 ### XML file example 
 This is the format that the app will accept:
 ```xml
