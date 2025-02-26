@@ -1,0 +1,80 @@
+<CarSales>
+  <CarSale>
+    <ModelName>Škoda Oktávia</ModelName>
+    <SoldAtUtc>2010-12-02T00:00:00Z</SoldAtUtc>
+    <Price>500000</Price>
+    <VAT>20</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Felicia</ModelName>
+    <SoldAtUtc>2000-12-03T00:00:00Z</SoldAtUtc>
+    <Price>210000</Price>
+    <VAT>20</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Fabia</ModelName>
+    <SoldAtUtc>2010-12-04T00:00:00Z</SoldAtUtc>
+    <Price>350000</Price>
+    <VAT>20</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Oktávia</ModelName>
+    <SoldAtUtc>2010-12-04T00:00:00Z</SoldAtUtc>
+    <Price>500000</Price>
+    <VAT>20</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Oktávia</ModelName>
+    <SoldAtUtc>2010-12-05T00:00:00Z</SoldAtUtc>
+    <Price>500000</Price>
+    <VAT>20</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Fabia</ModelName>
+    <SoldAtUtc>2010-12-05T00:00:00Z</SoldAtUtc>
+    <Price>350000</Price>
+    <VAT>20</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Fabia</ModelName>
+    <SoldAtUtc>2010-12-06T00:00:00Z</SoldAtUtc>
+    <Price>350000</Price>
+    <VAT>20</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Forman</ModelName>
+    <SoldAtUtc>2000-12-04T00:00:00Z</SoldAtUtc>
+    <Price>100000</Price>
+    <VAT>19</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Favorit</ModelName>
+    <SoldAtUtc>2000-12-05T00:00:00Z</SoldAtUtc>
+    <Price>80000</Price>
+    <VAT>-19</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Forman</ModelName>
+    <SoldAtUtc>2000-12-06T00:00:00Z</SoldAtUtc>
+    <Price>100000</Price>
+    <VAT>19</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Felicia</ModelName>
+    <SoldAtUtc>2000-12-03T00:00:00Z</SoldAtUtc>
+    <Price>210000</Price>
+    <VAT>19</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Felicia</ModelName>
+    <SoldAtUtc>2000-12-02T00:00:00Z</SoldAtUtc>
+    <Price>210000</Price>
+    <VAT>19</VAT>
+  </CarSale>
+  <CarSale>
+    <ModelName>Škoda Oktávia</ModelName>
+    <SoldAtUtc>2010-12-07T00:00:00Z</SoldAtUtc>
+    <Price>500000</Price>
+    <VAT>20</VAT>
+  </CarSale>
+</CarSales>

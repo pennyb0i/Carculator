@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="English" xml:space="preserve">
+        <value>English</value>
+    </data>
+    <data name="Czech" xml:space="preserve">
+        <value>Czech</value>
+    </data>
+    <data name="Slovak" xml:space="preserve">
+        <value>Slovak</value>
+    </data>
+    <data name="XmlSelectLabel" xml:space="preserve">
+        <value>Please select an XML file to display car information</value>
+    </data>
+    <data name="XmlButtonContent" xml:space="preserve">
+        <value>Open XML File</value>
+    </data>
+    <data name="ModelName" xml:space="preserve">
+        <value>Model name</value>
+    </data>
+    <data name="PriceWithVAT" xml:space="preserve">
+        <value>Price with VAT</value>
+    </data>
+    <data name="Price" xml:space="preserve">
+        <value>Price without VAT</value>
+    </data>
+    <data name="Language" xml:space="preserve">
+        <value>Language</value>
+    </data>
+    <data name="ButtonClear" xml:space="preserve">
+        <value>Clear table</value>
+    </data>
+</root>
